@@ -2,7 +2,3 @@
 172.31.43.156
 172.31.12.70
 
-
-[mywebservers:vars]
-mywebpackageforubuntu= apache2
-mywebpackageforredhat= httpd
