@@ -2,7 +2,7 @@
 - hosts: all
   become: yes
   tasks:
-   -name: i want to install apache2 on ubuntu 16.04
+  - name: i want to install apache2 on ubuntu 16.04
     apt:
       name: apache2
       state: present
