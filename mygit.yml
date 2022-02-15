@@ -7,7 +7,7 @@
        name: git
        state: present
 
-  - name: i wnat to install tree on ansible ubuntu nodes
+  - name: i want to install tree on ansible ubuntu nodes
     apt:
        name: tree
        state: present
